@@ -1,0 +1,14 @@
+.teachers-container{
+    
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+}
+.cart{
+    background-color: rgb(247, 211, 211);
+    border: 3px solid tomato;
+    border-radius: 10px;
+    height: 300px;
+    margin-top: 50px;
+
+    
+}

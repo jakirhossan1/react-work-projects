@@ -1,0 +1,23 @@
+.Teacher-style{
+        display: grid;
+        grid-template-columns:repeat(3,1fr);
+        margin: 10px;;
+        padding: 10px;
+        
+       
+    }
+
+img{
+    width: 240px;
+    height: 220px;
+    border-radius: 15px;
+}
+.btn{
+    width: 200px;
+    color: white;
+    background-color: tomato;
+    padding: 5px;
+    cursor: pointer;
+    
+    
+}
